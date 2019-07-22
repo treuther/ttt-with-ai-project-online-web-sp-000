@@ -1,6 +1,5 @@
 module Players
   class Computer < Player #Inherits all the functionality that we have in the Player module
-<<<<<<< HEAD
 
     def move(board)
       if board.cells[4] == " "      #tried center first
@@ -23,8 +22,6 @@ module Players
         "8"
     end
   end
-
-=======
->>>>>>> 6ab2baa86f83f7d607dc02f331ba01c285e53afe
   end
+  
 end
