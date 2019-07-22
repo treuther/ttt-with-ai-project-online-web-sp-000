@@ -1,13 +1,10 @@
 module Players
   class Human < Player #Inherits all the functionality that we have in the Player module
-<<<<<<< HEAD
 
     def move(board)
       puts "Please enter your selection."
       gets.strip
     end
-
-=======
->>>>>>> 6ab2baa86f83f7d607dc02f331ba01c285e53afe
   end
+  
 end
