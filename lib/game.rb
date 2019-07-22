@@ -1,6 +1,5 @@
 class Game
 
-<<<<<<< HEAD
   attr_accessor :board, :player_1, :player_2
 
   WIN_COMBINATIONS = [
@@ -71,7 +70,4 @@ def play
     puts "Cat's Game!"
   end
 end
-
-=======
->>>>>>> 6ab2baa86f83f7d607dc02f331ba01c285e53afe
 end
