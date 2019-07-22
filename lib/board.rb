@@ -11,7 +11,6 @@ class Board
   end
 
   def display
-<<<<<<< HEAD
     puts " #{cells[0]} | #{cells[1]} | #{cells[2]} "
     puts "-----------"
     puts " #{cells[3]} | #{cells[4]} | #{cells[5]} "
@@ -47,7 +46,6 @@ class Board
     puts " #{cells[3]} | #{cells[4]} | #{cells[5]}"
     puts "-----------"
     puts " #{cells[6]} | #{cells[7]} | #{cells[8]}"
->>>>>>> 6ab2baa86f83f7d607dc02f331ba01c285e53afe
   end
 
 end
